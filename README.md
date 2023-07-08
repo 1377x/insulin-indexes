@@ -2,7 +2,7 @@
 Mi first creation
 
 Hi stranger
-This is a HOMA-IR, HOMA-Beta, QUICKI, SPINA-GR, SPINA-GBETA
+This is a HOMA-IR, HOMA-Beta, QUICKI, SPINA-GR, SPINA-GBETA\n
 -Can be calculated from glucose in mg/dL and mmol/L
 -The insulin value must be in IU/mL
 -For now, does not have graphical interface
